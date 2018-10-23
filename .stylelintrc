@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "stylelint-config-sass-guidelines",
+    "./node_modules/prettier-stylelint/config.js"
+  ],
+  "plugins": [
+    "stylelint-scss"
+  ],
+  "rules": {
+    "indentation": 2,
+    "string-quotes": "single",
+    "at-rule-blacklist": ["debug"],
+    "scss/at-extend-no-missing-placeholder": true
+  }
+}
