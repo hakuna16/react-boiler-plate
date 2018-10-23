@@ -1,1 +1,1 @@
-SPRM UI
+React UI boiler plate
