@@ -2,11 +2,11 @@
 
 < Brief overview of problem >
 
-_Jira ticket:_ < Link to jira >
+Jira ticket:_ < Link to jira >
 
 ## Solution:
 
-Brief description of what was implemented and how - highlight any considerations that are important to call out >
+Brief description of what was implemented and how - highlight any considerations that are important to call out
 
 ## Impacted Areas:
 
@@ -25,8 +25,6 @@ Other areas of the application that were affected by this PR that might not be o
 
 * [ ] All acceptance criteria met
 * [ ] CI Green
-* [ ] Checked In Dev Enviroment
-* [ ] Signed off by PO
 
 ### Housekeeping:
 
