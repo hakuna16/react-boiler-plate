@@ -1,7 +1,7 @@
 {
-  "name": "sprmui",
+  "name": "react-boiler-plate",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bfj": "6.1.1",
     "dotenv": "6.0.0",
